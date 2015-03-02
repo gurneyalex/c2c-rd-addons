@@ -43,7 +43,7 @@ Allows to store additional data (dates) per fiscal year
     , "one2many_sorted"
     ]
 , "category"     : "Accounting & Finance"
-, "author"       : "Camptocamp Austria"
+, "author"       : "Camptocamp Austria,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : ["fiscalyear_view.xml"]
 , "installable"  : True

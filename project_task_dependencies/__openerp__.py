@@ -31,7 +31,7 @@
     DO NOT USE GANTT VIEW TO MODIFY DATES (successor tasks dates are not computed)
     Needs python-networkx later?
     """,
-    'author': 'Davide Corio, Ferdinand Gassauer',
+    'author': "Davide Corio, Ferdinand Gassauer,Odoo Community Association (OCA)",
     'website': 'http://www.davidecorio.com, http://www.camptocamp.com',
     'summary': 'Task Dependencies',
     'depends': ['project'],

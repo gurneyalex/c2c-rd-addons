@@ -28,7 +28,7 @@
     'description': """
 Chooses oldest lot and/or location  with available qty > 0
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'sale'],
     'update_xml': [
        ],

@@ -33,7 +33,7 @@
 , "version"      : "0.9"
 , "depends"      : ["account"]
 , "category"     : "Accounting & Finance"
-, "author"       : "Camptocamp Austria"
+, "author"       : "Camptocamp Austria,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : ["bank_statement_line_view.xml"]
 , "installable"  : True

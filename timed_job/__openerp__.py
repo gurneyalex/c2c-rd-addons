@@ -79,7 +79,7 @@ Programmatic interface :
  - _time_granule: A datetime.timedelta (default 10sec) that specifies the sparse time base (a value of 0 will not work!)
  - _max_scheduler_delta: A datetime.timedelta (default 6hours) that specifies the maximum interval for the scheduler to be executed
 """
-, "author"       : "Swing Entwicklung betrieblicher Informationssysteme GmbH"
+, "author"       : "Swing Entwicklung betrieblicher Informationssysteme GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.swing-system.com"
 , 'depends'      : ["email_template"]
 , 'update_xml'   : 

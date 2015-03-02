@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 { "name"         : "Product by Stock "
 , "version"      : "1.0"
-, "author"       : "Camptocamp Austria"
+, "author"       : "Camptocamp Austria,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com"
 , "description"  : """Shows quantity and amount of products per production location"""
 , "category"     : "Warehouse Management"

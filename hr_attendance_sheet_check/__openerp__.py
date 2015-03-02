@@ -27,7 +27,7 @@ This module checks sign in out sequence when saving the sheet
 thus allowing to enter past sign_in_out dates/times
 
 """
-, 'author'      : 'Camptocamp Austria'
+, 'author'      : "Camptocamp Austria,Odoo Community Association (OCA)"
 , 'depends'     : ['hr_attendance','hr_timesheet_sheet' ]
 , 'update_xml'  : ['hr_attendance_checkbox.xml']
 , 'demo_xml'    : []

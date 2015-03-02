@@ -26,7 +26,7 @@
 This module will use the product from user-product-project (analytic account) relation
 for timesheet tasks invoicing)
 """
-, 'author'      : 'Camptocamp Austria'
+, 'author'      : "Camptocamp Austria,Odoo Community Association (OCA)"
 , 'depends'     : [ 'analytic_user_function','project_timesheet' ]
 , 'update_xml'  : ['analytic_user_function_view.xml','security/ir.model.access.csv']
 , 'demo_xml'    : []

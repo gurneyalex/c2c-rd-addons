@@ -29,7 +29,7 @@
     Computes full/half depreciation if asset usage starts in fists/second half year
     Sets depreciation date at end of year date
 """,
-    'author': 'ChriCar Beteiligung und Beratung GmbH',
+    'author': "ChriCar Beteiligung und Beratung GmbH,Odoo Community Association (OCA)",
     'depends': ["account_asset"],
     'update_xml': ['account_asset_view.xml'],
     'demo_xml': [],

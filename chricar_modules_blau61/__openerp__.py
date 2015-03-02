@@ -28,7 +28,7 @@
     'description': """
 This module installs everything for Blaustauden
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [
 "account"
 ,"account_accountant"

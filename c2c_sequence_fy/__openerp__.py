@@ -59,7 +59,7 @@ using '(fy)' instead of hard coding.
 * Configuration wizard:
   During configuration you may choose to replace all '(year)' prefix and suffix occurrences by '(fy)'.
 """
-, 'author'      : 'Camptocamp Austria'
+, 'author'      : "Camptocamp Austria,Odoo Community Association (OCA)"
 , 'depends'     : ['account']
 , 'update_xml'  :
     [ 'ir_sequence_view.xml'

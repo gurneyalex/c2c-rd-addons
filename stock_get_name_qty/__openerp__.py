@@ -30,7 +30,7 @@
     if quantity available and virtual quantity are different both values are indicated
 
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'stock','sale'],
     'update_xml': ['stock_view.xml'],
     'demo_xml': [],

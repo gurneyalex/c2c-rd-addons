@@ -34,7 +34,7 @@
 ###############################################
 { "name"        : "Camptocamp IBAN formatting"
 , "version"     : "1.0"
-, "author"      : "Camptocamp Austria"
+, "author"      : "Camptocamp Austria,Odoo Community Association (OCA)"
 , "website"     : "http://www.camptocamp.at"
 , "description" : """
 Formats IBAN in group by 4 characters

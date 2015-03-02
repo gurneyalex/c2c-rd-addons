@@ -38,7 +38,7 @@ http://www.stuzza.at/11250_DE.6858781c0841bfb08be3ce61a7d21fb40e0f0830
     [ "account"
     ]
 , "category"     : "Accounting & Finance"
-, "author"       : "Camptocamp Austria"
+, "author"       : "Camptocamp Austria,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : ["account_qrcode_view.xml"]
 , "installable"  : True

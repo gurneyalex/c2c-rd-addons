@@ -29,7 +29,7 @@
 This module increases the length of text and makes it translatable
 
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'survey'],
     'update_xml': ['survey_view.xml','wizard/survey_print_multi.xml','report/survey_report.xml'],
     'demo_xml': [],

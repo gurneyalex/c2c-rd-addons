@@ -22,7 +22,7 @@
 {
     "name" : "Reconcile reconcile accounts",
     "version" : "1.1",
-    "author" : "Camptocamp SA",
+    "author" : "Camptocamp SA,Odoo Community Association (OCA)",
     "category": 'Accounting & Finance',
     'complexity': "normal",
     "description": """

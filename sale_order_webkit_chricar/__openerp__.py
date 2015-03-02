@@ -46,7 +46,7 @@ suppress unused columns in sale order lines."""
     , "stock_packing_webkit"
     ]
 , "category"     : "Sales Management"
-, "author"       : "Camptocamp Austria"
+, "author"       : "Camptocamp Austria,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : ["sale_view.xml","sale_order_webkit_view.xml"]
 , "installable"  : True

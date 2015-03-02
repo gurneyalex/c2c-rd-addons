@@ -33,7 +33,7 @@ This module orders the following tables by date desc
 * invoices
 
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'purchase','sale','stock','account' ],
     'update_xml': [
        ],

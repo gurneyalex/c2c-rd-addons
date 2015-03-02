@@ -28,7 +28,7 @@
     'description': """
 Requires production lot for internal moves
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'stock' ],
     'update_xml': [
     'stock_view.xml',

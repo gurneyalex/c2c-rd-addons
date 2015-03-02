@@ -33,7 +33,7 @@
 , "version"      : "1.0"
 , "depends"      : ["account", "report_webkit", "one2many_sorted"]
 , "category"     : "Accounting & Finance"
-, "author"       : "Camptocamp Austria"
+, "author"       : "Camptocamp Austria,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : ["account_cash_register_webkit_view.xml"]
 , "installable"  : True

@@ -32,7 +32,7 @@
     -> internal: shiping products to company location at customer site
     -> out: from company location at customer site to customer
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'base','sale','stock' ],
     'update_xml': ['sale_view.xml','wizard/make_ship_internal.xml',
        ],

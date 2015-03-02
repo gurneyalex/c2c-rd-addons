@@ -30,7 +30,7 @@
     * ordering the questions
     * allow to restart wizard with unanswered questions
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'crm_profiling' ],
     'update_xml': ['profile_view.xml',
        ],

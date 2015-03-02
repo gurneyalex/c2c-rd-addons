@@ -31,7 +31,7 @@ This module provides
   which can be reimproted using Form Import.
 * a default list for Form Export with all fields
     """,
-    'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+    'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
     'depends': ['base'],
     'website': 'http://www.chricar.at',
     'update_xml': ['tools_export_view.xml'],

@@ -28,7 +28,7 @@
     'description': """
 adapts the price difference (write down to use price units)
     """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': ['account_anglo_saxon','c2c_product_price_unit','c2c_stock_accounting','picking_invoice_rel' ],
     'update_xml': [],
     #'update_xml': ['product_view.xml'],

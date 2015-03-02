@@ -28,7 +28,7 @@
     'description': """
 This module installs everything we need for Austrian for payment
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [
 "c2c_austria_extension"
 ,"account_payment_edifact"

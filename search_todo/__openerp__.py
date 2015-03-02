@@ -29,7 +29,7 @@
 adds a To Do Button as default to search views
 this shows all resources which need further interaction (are not done or canceled)
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [
 "purchase"
 ,"sale"

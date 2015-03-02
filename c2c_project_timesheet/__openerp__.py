@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 { "name"         : "Timesheet encode tasks"
 , "version"      : "1.0"
-, "author"       : "Camptocamp Austria"
+, "author"       : "Camptocamp Austria,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.at"
 , "description"  : """
  Allows to enter work by task on daily basis timesheets

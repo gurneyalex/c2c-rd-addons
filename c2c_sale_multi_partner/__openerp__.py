@@ -31,7 +31,7 @@ This module allows
 * adds notes which are printed on the Packing List
 
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'sale','stock','delivery' ],
     'update_xml': ['sale_view.xml',
                    'stock_view.xml',

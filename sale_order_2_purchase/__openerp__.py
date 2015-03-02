@@ -30,7 +30,7 @@ Creates and confirms a purchase order in other company.
 This is useful if the "other company" orders in a sale portal 
 instead of using the purchse process itself
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'sale','purchase','account','product_price_property','stock'],
     'update_xml': [
        ],

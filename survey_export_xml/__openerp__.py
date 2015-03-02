@@ -29,7 +29,7 @@
 This modules allows to export the question / answer structure as XML
 
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'survey_multi_lang','xml_template'],
     'update_xml': ['survey_view.xml'],
     'demo_xml': [],

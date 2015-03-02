@@ -31,7 +31,7 @@
 ###############################################
 { "name"         : "Autosearch Check"
 , "version"      : "1.0"
-, "author"       : "Camptocamp Austria"
+, "author"       : "Camptocamp Austria,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.at"
 , "description"  : """
 This module checks if number of table ressources is large and turns autosearch off

@@ -23,7 +23,7 @@
 #
 { "name"         : "Account Test __compute"
 , "version"      : "0.9.5"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH" 
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)" 
 , "website"      : "http://www.chricar.at/ChriCar"
 , "description"  : """test to overwrite def __compute"""
 , "category"     : "Generic Modules/Others"

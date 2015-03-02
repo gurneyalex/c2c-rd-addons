@@ -28,7 +28,7 @@
     'description': """
 This module installs everything we need for Austrian extra addons c2c_extension
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [
 "c2c_austria_base"
 ,"c2c_partner_address_label"

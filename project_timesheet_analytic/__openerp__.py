@@ -26,7 +26,7 @@
     'description': """
     Displays analyitc hours (in addition to task hours and timesheet hours)
     """,
-    'author': 'Camptocamp',
+    'author': "Camptocamp,Odoo Community Association (OCA)",
     'website': 'http://www.comtocamp.com',
     'depends': ['project_timesheet'],
     'update_xml': ["report/task_report_view.xml",],

@@ -33,7 +33,7 @@
 , "version"      : "0.9"
 , "depends"      : ["crm_helpdesk", "report_webkit"]
 , "category"     : 'CRM & SRM'
-, "author"       : "Camptocamp Austria"
+, "author"       : "Camptocamp Austria,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.at/"
 , "data"         : ["report_crm_helpdesk_view.xml"]
 , "installable"  : True

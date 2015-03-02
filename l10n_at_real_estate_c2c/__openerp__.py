@@ -29,7 +29,7 @@
 This module installs a minimum chart of accounts for real estate management tool
 No XML data yet - these must be extracted from the database Real Estate templates
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [
         "account", 
         "base_vat", 

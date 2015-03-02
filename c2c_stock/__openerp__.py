@@ -29,7 +29,7 @@
 Adds some info fields to stock location
 makes lot ref searchable
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'stock' ],
     'update_xml': ['stock_view.xml',
        ],

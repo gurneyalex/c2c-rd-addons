@@ -28,7 +28,7 @@
     'description': """
 installs all apps
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [
 "account_accountant"
 ,"account_voucher"

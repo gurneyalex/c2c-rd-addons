@@ -34,7 +34,7 @@ http://www.camptocamp.com/en/blog/2011/10/sort-and-filter-options-for-function-f
 ****************************************************
 
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'stock'],
     'update_xml': [
     'wizard/stock_location_product_view.xml',

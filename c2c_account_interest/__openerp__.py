@@ -29,7 +29,7 @@
 Adds general or individual interest rates to accounts. 
 Base for calculation interests on moves. (ToDo)
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'account' ],
     'update_xml': [
     

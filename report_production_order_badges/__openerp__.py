@@ -36,7 +36,7 @@ Production Order Line
 , "version"      : "0.9"
 , "depends"      : ["sale", "chricar_stock_dispo_production_V1", "report_webkit"]
 , "category"     : 'Warehouse Management'
-, "author"       : "Camptocamp Austria"
+, "author"       : "Camptocamp Austria,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.at/"
 , "data"         : ["report_production_order_badges_view.xml"]
 , "installable"  : True

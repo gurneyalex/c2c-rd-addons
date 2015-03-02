@@ -28,7 +28,7 @@
     'description': """
 adds prod lot to mrp produce
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'mrp','c2c_stock_track_internal' ],
     'update_xml': [
     'mrp_view.xml',

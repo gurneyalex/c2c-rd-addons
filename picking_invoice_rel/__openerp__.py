@@ -33,7 +33,7 @@
 , "version"      : "0.9"
 , "depends"      : ["stock", "account", "purchase", "sale"]
 , "category"     : "Accounting & Finance"
-, "author"       : "Camptocamp Austria"
+, "author"       : "Camptocamp Austria,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : 
     [ "invoice_view.xml"

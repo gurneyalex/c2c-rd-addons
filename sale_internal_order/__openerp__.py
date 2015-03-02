@@ -33,7 +33,7 @@ technical:
 * stock_location must be internal for order_policy='internal' otherwise 'customer'
 * workflow - sale.order state = 'done' after shipping
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'sale','stock' ],
     'update_xml': ['partner_view.xml','sale_workflow.xml'
        ],

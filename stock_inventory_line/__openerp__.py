@@ -29,7 +29,7 @@
 Shows Inventoy Lines
 
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': ['stock' ],
     'update_xml': ['product_view.xml',
        ],

@@ -22,7 +22,7 @@
 {
     "name" : "Picking Reopen",
     "version" : "1.2",
-    "author" : "Camptocamp SA",
+    "author" : "Camptocamp SA,Odoo Community Association (OCA)",
     "category": 'Warehouse Management',
     'complexity': "normal",
     "description": """

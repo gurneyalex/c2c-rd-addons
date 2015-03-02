@@ -29,7 +29,7 @@
 This modul allows to enter Uom or Uos quantities in sale order
 and shows packing Info in various views.
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'sale','stock' ],
     'update_xml': ['sale_view.xml','product_view.xml','stock_view.xml'],
     'demo_xml': [],

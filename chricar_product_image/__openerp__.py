@@ -1,6 +1,6 @@
 { "name"         : "Product Image"
 , "version"      : "1.1"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.chricar.at/ChriCar"
 , "category"     : "Generic Modules/Others"
 , "depends"      : ["product"]

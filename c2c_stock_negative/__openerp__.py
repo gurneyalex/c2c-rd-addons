@@ -28,7 +28,7 @@
     'description': """
 Add check to prohibit negative real stock quantites per location and/or lot
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'stock','chricar_stock_product_by_location','stock_get_name_qty'],
     'update_xml': [
     'stock_view.xml',

@@ -33,7 +33,7 @@ This will be used
 * as source location for sales and internal moves
 
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'product','stock','sale','purchase' ],
     'data': ['product_view.xml',
        ],
