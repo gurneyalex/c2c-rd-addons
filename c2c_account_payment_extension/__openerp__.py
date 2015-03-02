@@ -35,7 +35,7 @@
 { 'sequence': 500,
 "name"         : "Payment select partners and invoices"
 , "version"      : "0.8"
-, "author"       : "Swing Entwicklung betrieblicher Informationssysteme GmbH"
+, "author"       : "Swing Entwicklung betrieblicher Informationssysteme GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.swing-system.com"
 , "description"  : 
 """Allows to select partners and/or invoices according to their properties and certain strategies from automatic payment"""

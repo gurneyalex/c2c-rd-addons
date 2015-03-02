@@ -1,7 +1,7 @@
 { 'sequence': 500,
 "name"         : "chricar_stock_location_product_limited"
 , "version"      : "0.1"
-, "author"       : "Z-Beanz Technologies"
+, "author"       : "Z-Beanz Technologies,Odoo Community Association (OCA)"
 , "website"      : "http://www.chricar.at/ChriCar/index.html"
 , "category"     : "Warehouse Management"
 , "description"  : """

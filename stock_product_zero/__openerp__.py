@@ -33,7 +33,7 @@ like consignations locations at supplieres or customers
 Adds a nice inventory report based on webkit
 
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'stock','one2many_sorted',"report_webkit" ],
 'data': ['stock_view.xml','inventory_view.xml','stock_inventory_webkit.xml',
   ],

@@ -32,7 +32,7 @@ This module allows
     * adds notes which are printed on the Packing List
 
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'sale','stock','delivery' ],
 'data': ['sale_view.xml',
               'stock_view.xml',

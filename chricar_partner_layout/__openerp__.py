@@ -2,7 +2,7 @@
 { 'sequence': 500,
 "name"         : "Partner: better layout for long partner names"
 , "version"      : "1.0"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.at"
 , "description"  : """Layout modification for partner name"""
 , "category"     : "Generic Modules/Base"

@@ -73,7 +73,7 @@ currenty the module must be updated immediately to fill price_unit_id
         * Reports
     * Price Lists
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': ['product', 'purchase', 'hr_expense','account_anglo_saxon', 'c2c_stock_accounting', 'c2c_product_price_unit_id'],
 'data': [
               

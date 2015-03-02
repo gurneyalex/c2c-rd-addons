@@ -31,7 +31,7 @@ This module changes the period name and code from mm/yyyy to yyyymm for easy dat
 period_id will be added to stock_move, account_move_line etc and monthly resources can be easily selected avoiding the
 cumbersome from/to date selection
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'account'],
 'data': [],
 'demo_xml': [],

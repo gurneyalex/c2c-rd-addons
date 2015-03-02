@@ -2,7 +2,7 @@
 { 'sequence': 500,
 "name"         : "Account Moves Deloitte"
 , "version"      : "1.0"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.chricar.at"
 , "description"  : """Import table for account move lines of Deloitte and other accounting systems
 generated 2009-10-17 12:10:57+02"""

@@ -32,7 +32,7 @@ This module shows the completion of internal moves associated with sale orders
     * internal stock to internal stock at customer location
     * internal stock to internal delivery stock location in the warehouse
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'sale' ],
 'data': ['sale_view.xml',
   ],

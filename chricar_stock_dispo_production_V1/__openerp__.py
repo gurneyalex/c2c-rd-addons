@@ -1,7 +1,7 @@
 { 'sequence': 500,
 "name"         : "Dispo Production"
 , "version"      : "1.0"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.chricar.at"
 , "description"  : """Dispo Production
 generated 2010-04-02 15:01:02+02"""

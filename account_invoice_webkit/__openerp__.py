@@ -51,7 +51,7 @@ set "print code" in company to print internal product code on sale_order,icking 
 , "account_invoice_iban_qr_at"
 ]
 , "category"     : "Accounting & Finance"
-, "author"       : "Camptocamp SA - NBessi, ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "Camptocamp SA - NBessi, ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : ["account_invoice_webkit_view.xml"]
 , "installable"  : True

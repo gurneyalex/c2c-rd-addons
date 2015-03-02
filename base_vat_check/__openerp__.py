@@ -31,7 +31,7 @@ This module enhances the VAT check to comply to accounting standards
         * at least some German VAT numbers return '---' as company name !!!
 
 """
-, 'author'      : 'ChriCar Beteiligungs- und Beratungs- GmbH'
+, 'author'      : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , 'depends'     : [ 'base_vat' ]
 , 'data'  : ['base_vat_view.xml', 'installer_view.xml']
 , 'demo_xml'    : []

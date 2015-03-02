@@ -2,7 +2,7 @@
 { 'sequence': 500,
 "name"         : "Budget Create"
 , "version"      : "1.0"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.chricar.at/ChriCar"
 , "description"  : """
 Create budget lines derived from account_move_lines of previous periods.

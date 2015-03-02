@@ -2,7 +2,7 @@
 { 'sequence': 500,
 "name"          : "Cashbox add date field in form"
 , "version"       : "1.0"
-, "author"        : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"        : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"       : "http://www.camptocamp.at"
 , "description"   : """
 Adds date of cashbox to form to allow modifications

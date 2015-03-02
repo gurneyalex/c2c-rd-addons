@@ -27,7 +27,7 @@
 This module displays the hidden field product_id
 
 """
-, 'author'      : 'ChriCar Beteiligungs- und Beratungs- GmbH'
+, 'author'      : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , 'depends'     : ['hr_timesheet' ]
 , 'data'  : ['hr_timesheet_product.xml']
 , 'demo_xml'    : []

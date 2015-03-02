@@ -29,7 +29,7 @@
 'description': """
 Mass Mail must set partner id (bug 1039625)
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'mail'],
 'data': [
   ],

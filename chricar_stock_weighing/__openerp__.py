@@ -2,7 +2,7 @@
 { 'sequence': 500,
 "name"         : "Stock Weighing"
 , "version"      : "1.0"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.chricar.at"
 , "description"  : """Stock Weighing
 

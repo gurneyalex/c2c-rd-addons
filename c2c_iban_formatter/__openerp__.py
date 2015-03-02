@@ -35,7 +35,7 @@
 { 'sequence': 500,
 "name"        : "Camptocamp IBAN formatting"
 , "version"     : "1.0"
-, "author"      : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"      : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"     : "http://www.camptocamp.at"
 , "description" : """
 validates check digits and formats IBAN in group by 4 characters

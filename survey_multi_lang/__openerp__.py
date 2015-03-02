@@ -30,7 +30,7 @@
 This module increases the length of text and makes it translatable
 
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'survey'],
 'data': ['survey_view.xml','wizard/survey_print_multi.xml','report/survey_report.xml'],
 'demo_xml': [],

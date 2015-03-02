@@ -34,7 +34,7 @@
 , "version"      : "0.9"
 , "depends"      : ["stock", "account", "purchase", "sale"]
 , "category"     : "Accounting & Finance"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : 
 [ "invoice_view.xml"

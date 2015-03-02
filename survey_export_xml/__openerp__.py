@@ -30,7 +30,7 @@
 This modules allows to export the question / answer structure as XML
 
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'survey_multi_lang','xml_template'],
 'data': ['survey_view.xml'],
 'demo_xml': [],

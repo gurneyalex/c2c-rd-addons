@@ -34,7 +34,7 @@ product.
     * as source location for sales and internal moves
 
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'product','stock','sale','purchase' ],
 'data': ['product_view.xml',
   ],

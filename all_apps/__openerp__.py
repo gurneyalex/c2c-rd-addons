@@ -29,7 +29,7 @@
 'description': """
 installs all apps
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [
 "account_accountant"
 ,"account_voucher"

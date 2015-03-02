@@ -30,7 +30,7 @@
 This modul allows to enter Uom or Uos quantities in sale order
 and shows packing Info in various views.
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'sale','stock' ],
 'data': ['sale_view.xml','product_view.xml','stock_view.xml'],
 'demo_xml': [],

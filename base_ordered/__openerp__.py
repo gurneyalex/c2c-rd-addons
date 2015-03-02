@@ -34,7 +34,7 @@ This module orders the following tables by date desc
     * invoices
 
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'purchase','sale','stock','account' ],
 'data': [
   ],

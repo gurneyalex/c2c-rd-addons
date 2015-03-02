@@ -44,7 +44,7 @@ Allows to store additional data (dates) per fiscal year
 , "one2many_sorted"
 ]
 , "category"     : "Accounting & Finance"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : ["fiscalyear_view.xml"]
 , "installable"  : True

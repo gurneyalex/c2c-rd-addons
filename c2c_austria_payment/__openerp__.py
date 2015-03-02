@@ -29,7 +29,7 @@
 'description': """
 This module installs everything we need for Austrian for payment
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [
 "c2c_austria_extension"
 ,"account_payment_edifact"

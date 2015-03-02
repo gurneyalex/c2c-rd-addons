@@ -46,7 +46,7 @@ ToDo
         * correct real time accounting
     * automatic handling of value roundings if qty_available is 0 after posting
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': ['product','purchase','sale', 'stock','stock_get_name_qty','stock_product_zero','report_webkit','c2c_stock_track_internal' ],
 'data': ['security/stock_security.xml',
               'stock_view.xml',

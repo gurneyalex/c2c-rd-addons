@@ -29,7 +29,7 @@
 { 'sequence': 500,
 "name" : "Advanced Budget Webkit Report"
 , "version" : "6.1"
-, "author" : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author" : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "category" : "Generic Modules/Accounting"
 , "website" : "http://camptocamp.com"
 , "description": """

@@ -36,7 +36,7 @@ sum(net)*tax
 which is the desired outcome.
 Set "Rounding Precision" in Tax definiton.
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'account'],
 'data': [
 'account_view.xml',

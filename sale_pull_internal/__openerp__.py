@@ -30,7 +30,7 @@
 This modul generates internal pickings from different stock locations to the ramp
 to be able to deliver the ordered quantities
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'sale','stock' ],
 'data': ['sale_view.xml',
   ],

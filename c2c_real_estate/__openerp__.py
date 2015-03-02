@@ -29,7 +29,7 @@
 'description': """
 This module installs a simple real estate management tool
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [
 "chricar_top"
 ,"chricar_tenant"

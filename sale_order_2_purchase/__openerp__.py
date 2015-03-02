@@ -31,7 +31,7 @@ Creates and confirms a purchase order in other company.
 This is useful if the "other company" orders in a sale portal 
 instead of using the purchse process itself
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'sale','purchase','account','product_price_property','stock'],
 'data': [
   ],

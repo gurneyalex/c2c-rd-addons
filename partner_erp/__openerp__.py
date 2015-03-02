@@ -23,7 +23,7 @@
 
 "name" : "Partner ERP Access",
 "version" : "1.0",
-"author" : "ChriCar Beteiligungs- und Beratungs- GmbH",
+"author" : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 "category": 'Project',
 'complexity': "easy",
 "description": """

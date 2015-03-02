@@ -33,7 +33,7 @@
 { 'sequence': 500,
 "name"        : "Electronic Banking via SEPA"
 , "version"     : "1.1"
-, "author"      : "Swing Entwicklung betrieblicher Informationssysteme GmbH"
+, "author"      : "Swing Entwicklung betrieblicher Informationssysteme GmbH,Odoo Community Association (OCA)"
 , "website"     : "http://www.swing-system.com"
 , "description" : 
 """

@@ -33,7 +33,7 @@
 { 'sequence': 500,
 "name"         : "Generate XML-file from a table"
 , "version"      : "1.1"
-, "author"       : "Swing Entwicklung betrieblicher Informationssysteme GmbH"
+, "author"       : "Swing Entwicklung betrieblicher Informationssysteme GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.swing-system.com"
 , "description"  : """Generate XML-file from a table that can be imported to OpenERP.
 

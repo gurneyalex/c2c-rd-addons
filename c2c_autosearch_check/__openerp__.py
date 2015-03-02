@@ -32,7 +32,7 @@
 { 'sequence': 500,
 "name"         : "Autosearch Check - just an Idea"
 , "version"      : "1.0"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.at"
 , "description"  : """
 This module checks if number of table ressources is large and turns autosearch off

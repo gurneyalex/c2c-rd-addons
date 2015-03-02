@@ -2,7 +2,7 @@
 { 'sequence': 500,
 "name"         : "Timesheet encode tasks"
 , "version"      : "1.0"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.at"
 , "description"  : """
 Allows to enter work by task on daily basis timesheets

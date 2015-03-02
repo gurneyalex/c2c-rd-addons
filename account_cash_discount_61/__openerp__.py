@@ -61,7 +61,7 @@ Not covered/ToDo:
     * reconcile invoice while entering bank statement line (IMHO does [again] not work as expected)
     * rename "Write Off" button
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'account_voucher' ],
 'data': [
 'payment_term_view.xml',

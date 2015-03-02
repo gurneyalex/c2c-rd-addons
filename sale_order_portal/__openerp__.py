@@ -29,7 +29,7 @@
 'description': """
 Simple Sale order entry for partners
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'sale_uos_entry','stock_get_name_qty','portal','mail'],
 'data': ['sale_view.xml'
   ],

@@ -1,7 +1,7 @@
 { 'sequence': 500,
 "name"         : "Application Columns"
 , "version"      : "1.0"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.chricar.at/ChriCar"
 , "description"  : """Defines the Terp Columns
 generated 2009-03-27 16:28:26+01"""

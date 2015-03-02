@@ -29,7 +29,7 @@
 'description': """
 adapts the price difference (write down to use price units)
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': ['account_anglo_saxon','c2c_product_price_unit','c2c_stock_accounting','picking_invoice_rel' ],
 'data': [],
 #'data': ['product_view.xml'],

@@ -29,7 +29,7 @@
 'description': """
 adds prod lot to mrp produce
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'mrp','c2c_stock_track_internal' ],
 'data': [
 'mrp_view.xml',

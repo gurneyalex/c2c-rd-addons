@@ -23,7 +23,7 @@
 
 "name" : "MRP Reopen",
 "version" : "1.1",
-"author" : "ChriCar Beteiligungs- und Beratungs- GmbH",
+"author" : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 "category": 'Manufacturing',
 'complexity': "normal",
 "description": """

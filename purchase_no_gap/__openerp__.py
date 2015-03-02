@@ -23,7 +23,7 @@
 
 "name" : "Purchase No Gap",
 "version" : "1.1",
-"author" : "ChriCar Beteiligungs- und Beratungs- GmbH",
+"author" : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 "category": 'Purchase Management',
 'complexity': "easy",
 "description": """

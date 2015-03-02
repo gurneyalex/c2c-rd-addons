@@ -32,7 +32,7 @@ This module allows to change accounts of posted moves
     * open periods - the account is simply replaced by the new one
     * closed periods - 2 additional records are created in the selected period (ToDo)
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': ['account' ],
 'data': ['wizard/account_move_line_change.xml',
              ],

@@ -32,7 +32,7 @@ Adds
 - per company definition for address window positions
 ToDo: adapt reports to use this
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'base' ],
 'data': [
 'partner_view.xml','report_label.xml',

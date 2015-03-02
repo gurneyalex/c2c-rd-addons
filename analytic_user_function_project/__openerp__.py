@@ -27,7 +27,7 @@
 This module will use the product from user-product-project (analytic account) relation
 for timesheet tasks invoicing)
 """
-, 'author'      : 'ChriCar Beteiligungs- und Beratungs- GmbH'
+, 'author'      : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , 'depends'     : [ 'analytic_user_function','project_timesheet' ]
 , 'data'  : ['analytic_user_function_view.xml','security/ir.model.access.csv']
 , 'demo_xml'    : []

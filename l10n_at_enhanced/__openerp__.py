@@ -23,7 +23,7 @@
 
 'name': 'Austria - Accounting enhanced fiscal position',
 'version': '1.0',
-'author': 'Camptocamp',
+'author': "Camptocamp,Odoo Community Association (OCA)",
 'website': 'http://www.camptocamp.com',
 'category': 'Localization/Account Charts',
 'depends': ['account_chart', 'base_vat', 'l10n_at','xml_template','base_iban'],

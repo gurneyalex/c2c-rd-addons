@@ -29,7 +29,7 @@
 'description': """
 This module installs everything we need for Austrian chricar extension
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [
 "c2c_austria_extension"
 #,"hr_contract_timesheet" 

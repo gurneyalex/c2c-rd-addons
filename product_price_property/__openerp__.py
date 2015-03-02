@@ -39,7 +39,7 @@ in report.analytic.line.to_invoice or in stock valuation report
 - May cause incompatibility in custom module because the data model change
 
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'product'],
 'data': [
   ],

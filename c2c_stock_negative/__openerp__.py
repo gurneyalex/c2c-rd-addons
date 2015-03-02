@@ -29,7 +29,7 @@
 'description': """
 Add check to prohibit negative real stock quantites per location and/or lot
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'stock','chricar_stock_product_by_location','stock_get_name_qty'],
 'data': [
 'stock_view.xml',

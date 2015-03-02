@@ -30,7 +30,7 @@
 Shows Inventoy Lines
 
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': ['stock' ],
 'data': ['product_view.xml',
   ],

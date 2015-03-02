@@ -29,7 +29,7 @@
 { 'sequence': 500,
 "name" : "Advanced Budget"
 , "version" : "5.0"
-, "author" : "Camptocamp SA (aw)"
+, "author" : "Camptocamp SA (aw),Odoo Community Association (OCA)"
 , "category" : "Generic Modules/Accounting"
 , "website" : "http://camptocamp.com"
 , "description": """

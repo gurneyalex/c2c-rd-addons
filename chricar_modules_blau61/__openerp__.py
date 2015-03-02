@@ -29,7 +29,7 @@
 'description': """
 This module installs everything for Blaustauden
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [
 "account"
 ,"account_accountant"

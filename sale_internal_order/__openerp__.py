@@ -34,7 +34,7 @@ technical:
     * stock_location must be internal for order_policy='internal' otherwise 'customer'
     * workflow - sale.order state = 'done' after shipping
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'sale','stock' ],
 'data': ['partner_view.xml','sale_workflow.xml'
   ],

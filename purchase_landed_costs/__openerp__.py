@@ -41,7 +41,7 @@ the products used to define landed cost must be classified "Distribution Type" a
         * "Quantity" (for freight)
 
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': ['purchase' ],
 'data': ['security/ir.model.access.csv',
               'purchase_view.xml',

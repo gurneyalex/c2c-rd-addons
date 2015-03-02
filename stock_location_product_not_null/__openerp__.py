@@ -35,7 +35,7 @@ http://www.camptocamp.com/en/blog/2011/10/sort-and-filter-options-for-function-f
 ****************************************************
 
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'stock'],
 'data': [
 'wizard/stock_location_product_view.xml',

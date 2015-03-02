@@ -31,7 +31,7 @@ usefull to select product, stock location or lot with product qty information
 if quantity available and virtual quantity are different both values are indicated
 
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'stock','sale'],
 'data': ['stock_view.xml'],
 'demo_xml': [],

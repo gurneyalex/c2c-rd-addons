@@ -34,7 +34,7 @@
 , "version"      : "0.9"
 , "depends"      : ["account"]
 , "category"     : "Accounting & Finance"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : ["bank_statement_line_view.xml"]
 , "installable"  : True

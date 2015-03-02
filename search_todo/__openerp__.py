@@ -30,7 +30,7 @@
 adds a To Do Button as default to search views
 this shows all resources which need further interaction (are not done or canceled)
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [
 "purchase"
 ,"sale"

@@ -30,7 +30,7 @@
 Adds general or individual interest rates to accounts. 
 Base for calculation interests on moves. (ToDo)
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'account' ],
 'data': [
 

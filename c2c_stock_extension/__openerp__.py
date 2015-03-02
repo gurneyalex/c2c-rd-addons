@@ -30,7 +30,7 @@
 Adds some info fields to stock location
 make lot ref searchable
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'stock' ],
 'data': ['stock_view.xml',
   ],

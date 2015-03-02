@@ -32,7 +32,7 @@ This module will allow to spezify
     * remove the default date of today as prefix for analytic account name
     * group all projects in ONE invoice per partner
 """
-, 'author'      : 'ChriCar Beteiligungs- und Beratungs- GmbH'
+, 'author'      : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , 'depends'     : [ 'hr_timesheet_invoice' ]
 , 'data'  : ['hr_timesheet_invoice_view.xml', 'wizard/hr_timesheet_invoice_create_view.xml']
 , 'demo_xml'    : []

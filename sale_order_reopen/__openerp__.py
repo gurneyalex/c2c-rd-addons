@@ -23,7 +23,7 @@
 
 "name" : "Sale Order Reopen",
 "version" : "1.2",
-"author" : "ChriCar Beteiligungs- und Beratungs- GmbH",
+"author" : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 "category": 'Sales Management',
 'complexity': "normal",
 "description": """

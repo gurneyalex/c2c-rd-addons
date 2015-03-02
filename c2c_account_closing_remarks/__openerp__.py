@@ -28,7 +28,7 @@
 'description': """
 Add a per year textbox for description of account closing remarks
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'account' ],
 'data': ['account_view.xml','security/ir.model.access.csv'
   ],

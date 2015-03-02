@@ -33,7 +33,7 @@
 { 'sequence': 500,
 "name" : "c2c Reporting Tools. A library that provide a new way to create clean reports efficiently"
 , "version" : "5.0"
-, "author" : "Camptocamp"
+, "author" : "Camptocamp,Odoo Community Association (OCA)"
 , "category" : "Generic Modules/Reporting"
 , "description": """This module offer a growing collection of objects to create simple and advanced reports in a new way of doing.
 You can create powerful reports with a few lines of python code and nothing else. (no sxw, rml or xml)

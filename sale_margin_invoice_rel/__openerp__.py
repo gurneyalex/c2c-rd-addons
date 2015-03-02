@@ -34,7 +34,7 @@
 , "version"      : "0.9"
 , "depends"      : ["sale_margin"]
 , "category"     : "Sale"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : ["invoice_view.xml"]
 , "installable"  : True

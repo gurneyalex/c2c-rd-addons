@@ -1,7 +1,7 @@
 { 'sequence': 500,
 "name"         : "Tenant"
 , "version"      : "1.0"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.chricar.at/ChriCar"
 , "description"  : """defines the tenant
 generated 2009-07-09 18:08:09+02"""

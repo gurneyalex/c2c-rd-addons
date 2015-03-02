@@ -33,7 +33,7 @@ SO
 -> internal: shiping products to company location at customer site
 -> out: from company location at customer site to customer
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'base','sale','stock' ],
 'data': ['sale_view.xml','wizard/make_ship_internal.xml',
   ],

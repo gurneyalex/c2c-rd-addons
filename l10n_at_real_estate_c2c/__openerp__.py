@@ -30,7 +30,7 @@
 This module installs a minimum chart of accounts for real estate management tool
 No XML data yet - these must be extracted from the database Real Estate templates
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [
    "account", 
    "base_vat", 

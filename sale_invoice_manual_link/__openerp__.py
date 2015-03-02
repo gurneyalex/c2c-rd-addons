@@ -23,7 +23,7 @@
 
 "name" : "Sale Invoice manual Link",
 "version" : "1.1",
-"author" : "ChriCar Beteiligungs- und Beratungs- GmbH",
+"author" : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 "category": 'Sale Management',
 'complexity': "easy",
 "description": """

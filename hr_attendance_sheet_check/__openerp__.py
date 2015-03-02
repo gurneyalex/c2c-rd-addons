@@ -28,7 +28,7 @@ This module checks sign in out sequence when saving the sheet
 thus allowing to enter past sign_in_out dates/times
 
 """
-, 'author'      : 'ChriCar Beteiligungs- und Beratungs- GmbH'
+, 'author'      : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , 'depends'     : ['hr_attendance','hr_timesheet_sheet' ]
 , 'data'  : ['hr_attendance_checkbox.xml']
 , 'demo_xml'    : []

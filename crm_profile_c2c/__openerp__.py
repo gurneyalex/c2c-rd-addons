@@ -31,7 +31,7 @@ This modules adds
     * ordering the questions
     * allow to restart wizard with unanswered questions
 """,
-'author': 'ChriCar Beteiligungs- und Beratungs- GmbH',
+'author': "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)",
 'depends': [ 'crm_profiling' ],
 'data': ['profile_view.xml',
   ],

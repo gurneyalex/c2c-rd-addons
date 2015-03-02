@@ -47,7 +47,7 @@ suppress unused columns in sale order lines."""
 , "stock_packing_webkit"
 ]
 , "category"     : "Sales Management"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : ["sale_view.xml","sale_order_webkit_view.xml"]
 , "installable"  : True

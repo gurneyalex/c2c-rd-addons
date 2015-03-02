@@ -34,7 +34,7 @@
 , "version"      : "1.0"
 , "depends"      : ["account", "report_webkit", "one2many_sorted"]
 , "category"     : "Accounting & Finance"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : ["account_cash_register_webkit_view.xml"]
 , "installable"  : True

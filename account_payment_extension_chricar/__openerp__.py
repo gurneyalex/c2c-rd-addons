@@ -23,7 +23,7 @@
 { 'sequence': 500,
 "name" : "Account Payment Extension - DO NOT INSTALL along with c2c_account_payment_extension_chricar"
 , "version" : "1.1"
-, "author" : "Zikzakmedia SL"
+, "author" : "Zikzakmedia SL,Odoo Community Association (OCA)"
 , "category" : "Generic Modules/Accounting"
 , "website" : "www.zikzakmedia.com"
 , "license" : "GPL-3"
