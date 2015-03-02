@@ -32,7 +32,7 @@
 ###############################################
 { "name"        : "Austrian electronic invoicing standard"
 , "version"     : "1.0"
-, "author"      : "Swing Entwicklung betrieblicher Informationssysteme GmbH"
+, "author"      : "Swing Entwicklung betrieblicher Informationssysteme GmbH,Odoo Community Association (OCA)"
 , "website"     : "http://www.swing-system.com"
 , "description" : 
 """

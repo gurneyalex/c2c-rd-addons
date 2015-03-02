@@ -28,7 +28,7 @@
 # Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 { "name" : "Advanced Budget Webkit Report"
 , "version" : "6.1"
-, "author" : "Camptocamp Austria"
+, "author" : "Camptocamp Austria,Odoo Community Association (OCA)"
 , "category" : "Generic Modules/Accounting"
 , "website" : "http://camptocamp.com"
 , "description": """

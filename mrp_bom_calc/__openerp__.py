@@ -32,7 +32,7 @@
       *  version management and 
       *  calculation of costs to bill of material
     """,
-    'author': 'zBeanz',
+    'author': "zBeanz,Odoo Community Association (OCA)",
     'website': 'http://www.zbeanztech.com',
     'depends': ['c2c_product_price_unit','mrp','mrp_subproduct'],
     'init_xml': [],

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 { "name"        : "ChriCar unique View ID"
 , "version"     : "0.2"
-, "author"      : "Network Gulf IT - India"
+, "author"      : "Network Gulf IT - India,Odoo Community Association (OCA)"
 , "website"     : "http://www.chricar.at/ChriCar/index.html"
 , "description" : """
 This module is funded by

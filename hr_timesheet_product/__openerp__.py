@@ -26,7 +26,7 @@
 This module displays the hidden field product_id
 
 """
-, 'author'      : 'Camptocamp Austria'
+, 'author'      : "Camptocamp Austria,Odoo Community Association (OCA)"
 , 'depends'     : ['hr_timesheet' ]
 , 'update_xml'  : ['hr_timesheet_product.xml']
 , 'demo_xml'    : []

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 { "name"         : "Budget Products"
 , "version"      : "1.0"
-, "author"       : "ChriCar Beteiligungs- und beratungs GmbH"
+, "author"       : "ChriCar Beteiligungs- und beratungs GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.chricar.at/ChriCar"
 , "description"  : """Allows to compare current and previous budgets with current and previous real
 

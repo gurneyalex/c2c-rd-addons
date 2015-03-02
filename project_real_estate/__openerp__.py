@@ -33,7 +33,7 @@ Tasks get attributes to allow planning of
 ** commercial law
 ** tax law (in Austria 
 """,
-    'author': 'ChriCar Beteiligung und Beratung GmbH',
+    'author': "ChriCar Beteiligung und Beratung GmbH,Odoo Community Association (OCA)",
     'depends': [
 "chricar_top"
 ,"chricar_tenant"

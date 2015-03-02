@@ -29,7 +29,7 @@
 This modul generates internal pickings from different stock locations to the ramp
 to be able to deliver the ordered quantities
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'sale','stock' ],
     'update_xml': ['sale_view.xml',
        ],

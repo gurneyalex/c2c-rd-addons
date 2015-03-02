@@ -30,7 +30,7 @@ This module enhances the VAT check to comply to accounting standards
 ** at least some German VAT numbers return '---' as company name !!!
 
 """
-, 'author'      : 'Camptocamp Austria'
+, 'author'      : "Camptocamp Austria,Odoo Community Association (OCA)"
 , 'depends'     : [ 'base_vat' ]
 , 'update_xml'  : ['base_vat_view.xml', 'installer_view.xml']
 , 'demo_xml'    : []

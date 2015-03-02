@@ -22,7 +22,7 @@
 {
     "name" : "Controls product encoding in invoice lines",
     "version" : "1.2",
-    "author" : "Camptocamp SA",
+    "author" : "Camptocamp SA,Odoo Community Association (OCA)",
     "category": 'Accounting & Finance',
     'complexity': "normal",
     "description": """

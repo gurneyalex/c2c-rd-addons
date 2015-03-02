@@ -22,7 +22,7 @@
 ##############################################################################
 { "name" : "Common financial reports"
 , "version" : "1.0"
-, "author" : "Zikzakmedia SL"
+, "author" : "Zikzakmedia SL,Odoo Community Association (OCA)"
 , "website" : "www.zikzakmedia.com"
 , "license" : "GPL-3"
 , "depends" : ["account","stock_packing_webkit"]

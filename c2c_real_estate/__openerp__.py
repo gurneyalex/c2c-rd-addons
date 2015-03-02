@@ -28,7 +28,7 @@
     'description': """
 This module installs a simple real estate management tool
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [
 "chricar_top"
 ,"chricar_tenant"

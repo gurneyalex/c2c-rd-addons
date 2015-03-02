@@ -34,7 +34,7 @@
 ###############################################
 { "name"        : "Camptocamp basic definitions"
 , "version"     : "1.0"
-, "author"      : "Camptocamp Austria"
+, "author"      : "Camptocamp Austria,Odoo Community Association (OCA)"
 , "website"     : "http://www.camptocamp.at"
 , "description" : """Defines basic information for Camptocamp
 

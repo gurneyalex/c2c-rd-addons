@@ -32,7 +32,7 @@
 ###############################################
 { "name"         : "Variant of field type one2many and many2many for sorted associations"
 , "version"      : "1.0"
-, "author"       : "Swing Entwicklung betrieblicher Informationssysteme GmbH"
+, "author"       : "Swing Entwicklung betrieblicher Informationssysteme GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.swing-system.com"
 , "description"  : """
 Variant of field type one2many for sorted associations

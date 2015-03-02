@@ -28,7 +28,7 @@
     'description': """
 Simple Sale order entry for partners
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'sale_uos_entry','stock_get_name_qty','portal','mail'],
     'update_xml': ['sale_view.xml'
        ],

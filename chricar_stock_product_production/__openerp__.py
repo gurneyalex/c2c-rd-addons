@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 { "name"         : "Product by Stock "
 , "version"      : "1.0"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.chricar.at"
 , "description"  : """Shows quantity and amount of products per production location"""
 , "category"     : "Warehouse Management"

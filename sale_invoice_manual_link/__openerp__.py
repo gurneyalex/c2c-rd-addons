@@ -22,7 +22,7 @@
 {
     "name" : "Sale Invoice manual Link",
     "version" : "1.1",
-    "author" : "Camptocamp Austria",
+    "author" : "Camptocamp Austria,Odoo Community Association (OCA)",
     "category": 'Sale Management',
     'complexity': "easy",
     "description": """

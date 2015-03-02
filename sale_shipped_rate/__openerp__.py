@@ -31,7 +31,7 @@ This module shows the completion of internal moves associated with sale orders
 * internal stock to internal stock at customer location
 * internal stock to internal delivery stock location in the warehouse
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'sale' ],
     'update_xml': ['sale_view.xml',
        ],

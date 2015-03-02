@@ -22,7 +22,7 @@
 {
     "name" : "Stock Invoice Service",
     "version" : "1.1",
-    "author" : "Camptocamp Austria",
+    "author" : "Camptocamp Austria,Odoo Community Association (OCA)",
     "category": 'Sales Management',
     'complexity': "normal",
     "description": """

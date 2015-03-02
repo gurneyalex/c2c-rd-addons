@@ -22,7 +22,7 @@
 {
     "name" : "Project Gantt Webkit",
     "version" : "1.0",
-    "author" : "Camptocamp Austria",
+    "author" : "Camptocamp Austria,Odoo Community Association (OCA)",
     "category": 'Project',
     'complexity': "easy",
     "description": """

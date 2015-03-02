@@ -31,7 +31,7 @@ Adds
 - per company definition for address window positions
 ToDo: adapt reports to use this
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'base' ],
     'update_xml': [
     'partner_view.xml','report_label.xml',

@@ -22,7 +22,7 @@
 {
     "name" : "Multi Company - user signature",
     "version" : "1.1",
-    "author" : "Ferdinand Gassauer",
+    "author" : "Ferdinand Gassauer,Odoo Community Association (OCA)",
     "category": 'Tools',
     'complexity': "normal",
     "description": """

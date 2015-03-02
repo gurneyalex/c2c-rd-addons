@@ -60,7 +60,7 @@ Not covered/ToDo:
 * reconcile invoice while entering bank statement line (IMHO does [again] not work as expected)
 * rename "Write Off" button
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'account_voucher' ],
     'update_xml': [
     'payment_term_view.xml',

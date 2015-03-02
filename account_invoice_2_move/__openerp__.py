@@ -22,7 +22,7 @@
 {
     "name" : "Adds links to unreconciled partner moves",
     "version" : "1.0",
-    "author" : "Camptocamp Austria",
+    "author" : "Camptocamp Austria,Odoo Community Association (OCA)",
     "category": 'Accounting & Finance',
     'complexity': "normal",
     "description": """

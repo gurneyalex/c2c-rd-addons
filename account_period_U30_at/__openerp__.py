@@ -32,7 +32,7 @@
 ###############################################
 { "name"        : "Austrian VAT declaration"
 , "version"     : "1.0"
-, "author"      : "Swing Entwicklung betrieblicher Informationssysteme GmbH, ChriCar Bet. u Beratung GmbH"
+, "author"      : "Swing Entwicklung betrieblicher Informationssysteme GmbH, ChriCar Bet. u Beratung GmbH,Odoo Community Association (OCA)"
 , "website"     : "http://www.swing-system.com"
 , "description" : 
 """

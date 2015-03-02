@@ -33,7 +33,7 @@
 , "version"      : "0.9"
 , "depends"      : ["sale_margin"]
 , "category"     : "Sale"
-, "author"       : "Camptocamp SA - Ferdinand Gassauer"
+, "author"       : "Camptocamp SA - Ferdinand Gassauer,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : ["invoice_view.xml"]
 , "installable"  : True

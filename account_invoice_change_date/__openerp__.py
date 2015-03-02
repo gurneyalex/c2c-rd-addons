@@ -31,7 +31,7 @@
     
     Recomputes due date if invoice date or payment term are changed
 """,
-    'author': 'ChriCar Beteiligung und Beratung GmbH',
+    'author': "ChriCar Beteiligung und Beratung GmbH,Odoo Community Association (OCA)",
     'depends': ["account","chricar_account_period_sum"],
     'update_xml': ['account_invoice_view.xml'],
     'demo_xml': [],

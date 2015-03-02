@@ -27,7 +27,7 @@
     'description': """
 Add a per year textbox for description of account closing remarks
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'account' ],
     'update_xml': ['account_view.xml','security/ir.model.access.csv'
        ],

@@ -45,7 +45,7 @@ shows address in internal tree view"""
     , "one2many_sorted"
     ]
 , "category"     : "Warehouse Management"
-, "author"       : "Camptocamp SA - Ferdinand Gassauer"
+, "author"       : "Camptocamp SA - Ferdinand Gassauer,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : ["stock_packing_webkit_view.xml", "stock_packing_view.xml"]
 , "installable"  : True

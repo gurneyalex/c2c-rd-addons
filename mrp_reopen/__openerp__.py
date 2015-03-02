@@ -22,7 +22,7 @@
 {
     "name" : "MRP Reopen",
     "version" : "1.1",
-    "author" : "Camptocamp Austria",
+    "author" : "Camptocamp Austria,Odoo Community Association (OCA)",
     "category": 'Manufacturing',
     'complexity': "normal",
     "description": """

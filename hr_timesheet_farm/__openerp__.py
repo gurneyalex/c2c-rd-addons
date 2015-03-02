@@ -25,7 +25,7 @@
 , 'description' : """
 Fast recording of working time per day and distribution of hours to lots  
 """
-, 'author'      : 'ChriCar Beteiligungs- und Beratungs- GmbH'
+, 'author'      : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , 'depends'     : ['hr_timesheet' ]
 , 'update_xml'  : ['hr_timesheet_farm.xml']
 , 'demo_xml'    : []

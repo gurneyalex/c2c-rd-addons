@@ -22,7 +22,7 @@
 {
     "name" : "Stock Production Moves",
     "version" : "1.1",
-    "author" : "Camptocamp Austria",
+    "author" : "Camptocamp Austria,Odoo Community Association (OCA)",
     "category": 'Warehouse Management',
     'complexity': "normal",
     "description": """

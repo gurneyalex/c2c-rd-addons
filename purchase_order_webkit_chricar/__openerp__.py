@@ -45,7 +45,7 @@ suppress unused columns in purchase order lines."""
     , "one2many_sorted"
     ]
 , "category"     : "PurchaseManagement"
-, "author"       : "Camptocamp SA - Ferdinand Gassauer"
+, "author"       : "Camptocamp SA - Ferdinand Gassauer,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : ["purchase_view.xml","partner_view.xml","purchase_order_webkit_view.xml"]
 , "installable"  : True

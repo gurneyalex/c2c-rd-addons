@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 { "name"         : "Location rating (Austria)"
 , "version"      : "1.0"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.chricar.at"
 , "description"  : """Austria: Rating of locations (Ertragsmesszahl)
 """

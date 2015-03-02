@@ -38,7 +38,7 @@ in report.analytic.line.to_invoice or in stock valuation report
  - May cause incompatibility in custom module because the data model change
 
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'product'],
     'update_xml': [
        ],

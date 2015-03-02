@@ -22,7 +22,7 @@
 {
     "name" : "Purchase No Gap",
     "version" : "1.1",
-    "author" : "Camptocamp Austria",
+    "author" : "Camptocamp Austria,Odoo Community Association (OCA)",
     "category": 'Purchase Management',
     'complexity': "easy",
     "description": """

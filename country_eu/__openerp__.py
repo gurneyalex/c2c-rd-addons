@@ -1,6 +1,6 @@
 { "name"         : "Country EU Members"
 , "version"      : "1.0"
-, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH"
+, "author"       : "ChriCar Beteiligungs- und Beratungs- GmbH,Odoo Community Association (OCA)"
 , "website"      : "http://www.chricar.at/ChriCar"
 , "description"  : """defines the EU countries"""
 , "category"     : "Base"

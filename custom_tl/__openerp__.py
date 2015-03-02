@@ -28,7 +28,7 @@
     'description': """
     This module adds custom specifiy product attributes
     """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': ['product' ],
     'update_xml': ['product_view.xml',
                    ],

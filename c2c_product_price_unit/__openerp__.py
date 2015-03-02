@@ -72,7 +72,7 @@ ToDo:
 ** Reports
 * Price Lists
     """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': ['product', 'purchase', 'sale_layout','hr_expense','account_anglo_saxon', 'c2c_stock_accounting' ],
     'update_xml': ['c2c_product.price_unit.xml',
                    'security/product_security.xml',

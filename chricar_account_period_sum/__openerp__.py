@@ -23,7 +23,7 @@
 #
 { "name" : "Account Period Sum"
 , "version" : "0.9.9"
-, "author"  : "ChriCar Beteiligungs- und Beratungs GmbH"
+, "author"  : "ChriCar Beteiligungs- und Beratungs GmbH,Odoo Community Association (OCA)"
 , "website" : "http://www.chricar.at/ChriCar"
 , "description"  : """
 This module adds period sums for moves_lines of *account_moves* with state posted

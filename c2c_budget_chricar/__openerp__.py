@@ -28,7 +28,7 @@
 # Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 { "name" : "Advanced Budget"
 , "version" : "5.0"
-, "author" : "Camptocamp SA (aw)"
+, "author" : "Camptocamp SA (aw),Odoo Community Association (OCA)"
 , "category" : "Generic Modules/Accounting"
 , "website" : "http://camptocamp.com"
 , "description": """

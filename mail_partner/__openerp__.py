@@ -28,7 +28,7 @@
     'description': """
 Mass Mail must set partner id (bug 1039625)
 """,
-    'author': 'Camptocamp Austria',
+    'author': "Camptocamp Austria,Odoo Community Association (OCA)",
     'depends': [ 'mail'],
     'update_xml': [
        ],

@@ -22,7 +22,7 @@
 {
     "name" : "Company multi - user signature",
     "version" : "1.1",
-    "author" : "Ferdinand Gassauer",
+    "author" : "Ferdinand Gassauer,Odoo Community Association (OCA)",
     "category": 'Human Resources',
     'complexity': "normal",
     "description": """

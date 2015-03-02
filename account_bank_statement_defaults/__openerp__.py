@@ -33,7 +33,7 @@
 , "version"      : "0.9"
 , "depends"      : ["account"]
 , "category"     : "Accounting & Finance"
-, "author"       : "Camptocamp SA - Ferdinand Gassauer"
+, "author"       : "Camptocamp SA - Ferdinand Gassauer,Odoo Community Association (OCA)"
 , "website"      : "http://www.camptocamp.com/"
 , "data"         : ["bank_statement_line_view.xml"]
 , "installable"  : True
